@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phoenixx101
 - 👀 I’m interested in science, math, and mythology.
-- 🌱 I’m currently learning calculus, physics, and C++.
+- 🌱 I’m currently learning python and C++.
 - 💞️ I’m looking to collaborate on nothing in particular.
 - 📫 If you want to reach me, use my discord.
 - 😄 Pronouns: He/Him
